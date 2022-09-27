@@ -20,6 +20,6 @@ samples, guidance on mobile development, and a full API reference.
 The data layer contains a single weather repository that is used to fetch weather data from the OpenWeatherMap API.
 In this version of the app, just get the data from the API and display on the app UI.
 
-For help can see 
+For getting help can see 
 
 - [Flutter Weather App Example using the OpenWeatherMap API](https://flutterawesome.com/flutter-weather-app-example-using-the-openweathermap-api-2/)
