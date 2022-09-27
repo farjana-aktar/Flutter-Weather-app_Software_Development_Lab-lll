@@ -2,7 +2,7 @@
 
 This is a new Flutter project.
 
-## Getting Started
+# Getting Started
 
 This project is a starting point for a Flutter application.
 
@@ -16,7 +16,10 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 #Data Layer
+
 The data layer contains a single weather repository that is used to fetch weather data from the OpenWeatherMap API.
 In this version of the app, just get the data from the API and display on the app UI.
+
 For help can see 
--[Flutter Weather App Example using the OpenWeatherMap API](https://flutterawesome.com/flutter-weather-app-example-using-the-openweathermap-api-2/)
+
+- [Flutter Weather App Example using the OpenWeatherMap API](https://flutterawesome.com/flutter-weather-app-example-using-the-openweathermap-api-2/)
