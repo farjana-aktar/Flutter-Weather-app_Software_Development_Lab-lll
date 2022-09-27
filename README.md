@@ -15,7 +15,7 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-#Data Layer
+# Data Layer
 
 The data layer contains a single weather repository that is used to fetch weather data from the OpenWeatherMap API.
 In this version of the app, just get the data from the API and display on the app UI.
